@@ -1,0 +1,4 @@
+page_file,labels,has_text_layer,has_text,has_table,has_raster_image,has_vector_graphics,scan_backed,needs_ocr,text_characters,word_count,table_count,image_count,image_area_ratio,vector_path_count,table_detection_supported,table_detection_error,error
+vw_test_set/annual-report-2025-volkswagen-group_page_0001.pdf,"text,raster-image,vector-graphics,scan-backed",True,False,False,True,True,True,False,16,3,0,2,1.0,3,True,,
+vw_test_set/annual-report-2025-volkswagen-group_page_0002.pdf,"text,raster-image",True,True,False,True,False,False,False,386,62,0,2,0.3403,0,True,,
+vw_test_set/annual-report-2025-volkswagen-group_page_0003.pdf,"text,raster-image,vector-graphics,scan-backed",True,True,False,True,True,True,False,1214,200,0,2,1.0,13,True,,
